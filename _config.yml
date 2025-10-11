@@ -2,7 +2,7 @@
 title: "Caplog.txt"
 description: "An open, plain-text format for structured personal logging"
 baseurl: "/"
-url: "https://shubhambhahada.github.io"
+url: "https://caplogtxt.github.io"
 
 # Build settings
 markdown: kramdown
