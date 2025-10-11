@@ -1,7 +1,7 @@
 # Site settings
 title: "Caplog.txt"
 description: "An open, plain-text format for structured personal logging"
-baseurl: "/caplog-txt-website"
+baseurl: "/"
 url: "https://shubhambhahada.github.io"
 
 # Build settings
