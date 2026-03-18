@@ -124,7 +124,7 @@ description: "An open, plaintext format for structured personal logging. Future-
           </div>
           <h3 class="card-title">Simple Syntax</h3>
           <p class="card-description">
-            Three lines per entry: event datetime, entry timestamp, and message. That's it. Easy to learn, impossible to forget.
+            Three lines per entry: Date, Timestamp, and Message. That's it. Easy to learn, impossible to forget.
           </p>
         </div>
       </div>
@@ -164,7 +164,7 @@ Weather was perfect, cool and crisp.</code></pre>
     
     <div style="margin-top: 2rem; text-align: center;">
       <p class="text-secondary">
-        Three simple parts: <strong>Event Date</strong>, <strong>Entry Timestamp</strong>, and <strong>Message</strong>.
+        Three simple parts: <strong>Date</strong>, <strong>Timestamp</strong>, and <strong>Message</strong>.
         Separated by blank lines. That's the entire specification.
       </p>
     </div>
