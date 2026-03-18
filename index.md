@@ -237,7 +237,7 @@ Weather was perfect, cool and crisp.</code></pre>
           <a href="{{ site.github.cli_repository_url }}" class="btn btn-primary" target="_blank" rel="noopener noreferrer">
             Download CLI Tool
           </a>
-          <a href="{{ site.github.cli_repository_url }}#usage" class="btn btn-outline" target="_blank" rel="noopener noreferrer">
+          <a href="{{ site.github.syntax_repository_url }}#usage" class="btn btn-outline" target="_blank" rel="noopener noreferrer">
             View Documentation
           </a>
         </div>

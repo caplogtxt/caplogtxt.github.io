@@ -46,6 +46,7 @@ navigation:
 github:
   repository_url: "https://github.com/caplogtxt/"
   cli_repository_url: "https://github.com/caplogtxt/caplog.txt-cli"
+  syntax_repository_url: "https://github.com/caplogtxt/caplogtxt-syntax"
 
 # Theme configuration
 theme_color: "#2c3e50"
