@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Caplog.txt - Structured Personal Logging"
-description: "An open, plain-text format for structured personal logging. Future-proof, human-readable, and machine-parseable."
+description: "An open, plaintext format for structured personal logging. Future-proof, human-readable, and machine-parseable."
 ---
 
 <section id="hero" class="section section-hero">

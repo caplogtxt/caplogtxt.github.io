@@ -1,6 +1,6 @@
 # Site settings
 title: "Caplog.txt"
-description: "An open, plain-text format for structured personal logging"
+description: "An open, plaintext format for structured personal logging"
 baseurl: "/"
 url: "https://caplogtxt.github.io"
 
@@ -44,7 +44,7 @@ navigation:
 
 # GitHub repository information
 github:
-  repository_url: "https://github.com/caplogtxt/caplog.txt"
+  repository_url: "https://github.com/caplogtxt/"
   cli_repository_url: "https://github.com/caplogtxt/caplog.txt-cli"
 
 # Theme configuration

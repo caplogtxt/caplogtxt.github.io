@@ -1,6 +1,6 @@
 # Caplog.txt Website
 
-A clean, fast-loading Jekyll website for the Caplog.txt project - an open, plain-text format for structured personal logging.
+A clean, fast-loading Jekyll website for the Caplog.txt project - an open, plaintext format for structured personal logging.
 
 ## 🚀 Features
 
